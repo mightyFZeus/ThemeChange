@@ -46,7 +46,7 @@ export default function App() {
         <Globalstyle />
         <div className="App">
           <h1>Hello User</h1>
-          <h2>Click the button to change theme and font size!</h2>
+          <h2>Click the button to change theme color and font size!</h2>
           <button
             onClick={(e) =>
               setTheme(
